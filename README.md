@@ -2,7 +2,7 @@
 Packer scripts for building foundational VM images.
 
 ## Build
-`make base-image-jammy`
+`make base-jammy`
 
 ## Test
 `make launch-base-jammy`
