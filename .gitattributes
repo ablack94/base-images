@@ -1,0 +1,2 @@
+secretfile filter=git-crypt diff=git-crypt
+base-jammy.pkrvars.hcl filter=git-crypt diff=git-crypt
